@@ -7,7 +7,6 @@ import numpy as np
 
 # I- Collect the data in a CSV file and submit it with the rest of your results
 
-
 arduino_port = "COM3"  
 baud_rate = 9600
 csv_file = "motion_logging.csv"
